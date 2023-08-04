@@ -37,7 +37,7 @@
     //cout << index << endl; // Print the index of the number to find in the array
 
   //  return 0; // End of the program
-//}C:\\Users\\c m\\Desktop\\Assignment01\\TestCases\\TestCases\\FixingCodeInProduction\\TestCases\\TestCase_01.txt
+//}
 #include <iostream>
 #include <fstream>
 #include <string>
